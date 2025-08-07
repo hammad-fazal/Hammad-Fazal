@@ -1,8 +1,39 @@
-### 👋 Hello, fellow data enthusiast! Welcome to my GitHub space.
-### 🚀 I'm Hammad Fazal, a passionate data scientist and analytics aficionado on a mission to turn raw data into meaningful insights
+# 👋 Hi there, I'm Hammad Fazal
 
-- 🌱 I’m currently learning data science and data analytics tools.
-- 🛠️ My expertise lies in Python, MS Excel, SQL, Tableau, Power BI and I'm always exploring new ways to leverage data for strategic decision-making.
-- 🤔 I’m looking to collaborate with people who feel crazy when they hear data.
-- 📈 Whether you're a fellow data enthusiast, a potential collaborator, or just someone curious about the world of data, feel free to reach out. 
-- 📫 Reach me at: Contact: +92-324-3351271 -- Email: hammadfazal75@gmail.com
+📍 Karachi, Pakistan | 🧑‍🎓 B.E. in Telecommunication Engineering (2024, NED University)
+
+---
+
+## 🚀 About Me
+
+I'm a tech enthusiast passionate about building reliable systems and solving production-level problems. With a foundation in telecom engineering and hands-on experience in data operations and infrastructure support, I'm transitioning towards **DevOps Engineering** — a field where automation, observability, and system resilience meet.
+
+Currently, I work at **Afiniti**, supporting enterprise-level systems, diagnosing real-time issues, and contributing to performance monitoring and optimization.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Languages**: Python, Bash, SQL
+- **DevOps Tools**: Docker, Kubernetes, GitLab CI/CD, Linux
+
+---
+
+## 📈 What I'm Learning
+
+- Kubernetes & Container Orchestration
+- CI/CD with Jenkins & GitHub Actions
+- Infrastructure as Code (Terraform)
+- Cloud Services (AWS)
+- Advanced Python for automation
+- System design for scalability & monitoring
+
+---
+
+## 🤝 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hammad-fazal-prof786/) 
+- 📫 Email: hammadfazal75@gmail.com  
+
+
+
