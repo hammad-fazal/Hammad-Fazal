@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hammad Fazal
 
-📍 Karachi, Pakistan | 🧑‍🎓 B.E. in Telecommunication Engineering (2024, NED University)
+📍 Karachi, Pakistan | 🧑‍🎓 B.E. in Telecommunications Engineering (2024, NED University)
 
 ---
 
@@ -15,7 +15,7 @@ Currently, I work at **Afiniti**, supporting enterprise-level systems, diagnosin
 ## 🛠️ Tech Stack & Skills
 
 - **Languages**: Python, Bash, SQL
-- **DevOps Tools**: Docker, Kubernetes, GitLab CI/CD, Linux
+- **DevOps Tools**: Docker, Kubernetes, GitLab CI/CD, Jenkins
 
 ---
 
