@@ -14,8 +14,8 @@ Currently, I work at **Afiniti**, supporting enterprise-level systems, diagnosin
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages**: Python, Bash, SQL
-- **DevOps Tools**: Docker, Kubernetes, GitLab CI/CD, Jenkins
+- **Languages**: Python, Bash, MYSQL, NOSQL
+- **DevOps Tools**: Docker, Kubernetes, GitLab CI/CD, Jenkins, AWS, Terraform
 
 ---
 
