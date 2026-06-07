@@ -24,40 +24,10 @@ This portfolio showcases my learning journey, projects, certifications, and prac
 * DevOps & CI/CD
 * Monitoring & Troubleshooting
 
-I am continuously expanding my skills and working toward becoming a QA Automation Engineer with strong DevOps knowledge.
-
----
-
-# Professional Experience 🏢
-
-## Zong CMPak Ltd
-
-### Project Management
-
-Responsibilities include:
-
-* Monitoring critical network services and infrastructure
-* Troubleshooting production incidents and service degradations
-* Coordinating with vendors and cross-functional teams for issue resolution
-* Analyzing system alarms and performance metrics
-* Supporting operational excellence and service availability
-* Working with large datasets and operational reporting
-
-### Skills Developed
-
-* Incident Management
-* Root Cause Analysis
-* Troubleshooting
-* Monitoring & Alert Management
-* Cross-Team Communication
-* Analytical Thinking
-* Production Support
 
 ---
 
 # Tools 🔧
-
-### Testing & QA
 
 * Postman
 * Newman
@@ -70,6 +40,7 @@ Responsibilities include:
 
 * MySQL
 * SQL Server
+* PostgreSQL
 
 ### Programming
 
@@ -84,21 +55,17 @@ Responsibilities include:
 * Docker
 * Jenkins
 * GitHub Actions
-* Kubernetes (Learning)
-* Terraform (Learning)
 
 ### Collaboration
 
 * Jira
 * Confluence
 * Microsoft Teams
-* Slack
 
 ### Monitoring & Operations
 
-* Kibana
-* Grafana
 * Linux
+* Grafana
 
 ---
 
@@ -180,25 +147,7 @@ Responsibilities include:
 
 ### Repository
 
-👉 Add GitHub Repository Link
-
----
-
-## API Automation Projects
-
-Coming Soon...
-
----
-
-## Python Automation Projects
-
-Coming Soon...
-
----
-
-## SQL Projects
-
-Coming Soon...
+👉 https://github.com/hammad-fazal/OpenCart_API_Testing
 
 ---
 
@@ -207,48 +156,16 @@ Coming Soon...
 ## Completed
 
 * Google Data Analytics Professional Certificate
-* Data Analyst with Python (DataCamp)
-
-## Currently Pursuing
-
-* Postman API Fundamentals
-* QA Automation Learning Path
-* DevOps Engineering Learning Path
-* Kubernetes Fundamentals
-* Jenkins CI/CD
-
----
-
-# Learning Roadmap 📚
-
-Current areas of focus:
-
-* API Automation using Postman & Newman
-* Python for Test Automation
-* Selenium WebDriver
-* Pytest Framework
-* Jenkins Pipelines
+* Data Analyst with Python
 * Docker
-* Kubernetes
-* AWS Cloud
-* Terraform
+* Databases and SQL for Data Science with Python
+* Jenkins
 
 ---
 
 # Connect With Me 🤝
 
-### LinkedIn
-
-Add Your LinkedIn URL
 
 ### Email
 
 📧 [hammadfazal75@gmail.com](mailto:hammadfazal75@gmail.com)
-
----
-
-# Portfolio Goal 🎯
-
-My goal is to build expertise in QA Automation and DevOps by combining real-world operations experience with software testing, automation, and modern cloud technologies.
-
-I believe reliable systems are built through a combination of testing, monitoring, automation, and continuous improvement.
