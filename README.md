@@ -1,12 +1,13 @@
 # Hi, I'm Hammad Fazal 👋
 
-📍 Karachi, Pakistan
+## Work Experience
 
-🎓 B.E. Telecommunications Engineering (2024) — NED University of Engineering & Technology
-
+* Digital Executive @ Zong CMPak Ltd (Dec 2025 - Present)
+* Production Analyst @ Afiniti (Dec 2024 - Nov 2025)
+  
 ---
 
-# About Me 🚀
+# About Me 
 
 I am a Telecommunications Engineer with hands-on experience in production systems, incident management, API Testing and Automation.
 
